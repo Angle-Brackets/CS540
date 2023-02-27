@@ -1,0 +1,1 @@
+[Test set] Epoch: 10, Accuracy: 16.93%

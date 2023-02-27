@@ -1,0 +1,2 @@
+[3, 4, 6, 0, 0, 1, 7, 2, 5] h=0 moves: 0
+Max queue length: 1
